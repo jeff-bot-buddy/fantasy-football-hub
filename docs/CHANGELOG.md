@@ -1,0 +1,1 @@
+- 2026-11-04: Plan created (BUILD_PLAN, CLAUDE.md, SCHEMA stub). S0 waiting on Jeff.
