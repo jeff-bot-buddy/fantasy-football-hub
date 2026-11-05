@@ -1,2 +1,3 @@
 - 2026-11-04: Plan created (BUILD_PLAN, CLAUDE.md, SCHEMA stub). S0 waiting on Jeff.
 - 2026-11-05: ff-waivers skill plan v1 drafted (docs/WAIVER_SKILL_PLAN.md); adversary review in progress.
+- 2026-11-05: ff-waivers plan v2 after 3 adversaries + 2 validators; BUILD_PLAN adds W0a/W0b, splits S5b, refutes the Sleeper ID-crosswalk assumption.
