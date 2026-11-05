@@ -1,1 +1,2 @@
 - 2026-11-04: Plan created (BUILD_PLAN, CLAUDE.md, SCHEMA stub). S0 waiting on Jeff.
+- 2026-11-05: ff-waivers skill plan v1 drafted (docs/WAIVER_SKILL_PLAN.md); adversary review in progress.
